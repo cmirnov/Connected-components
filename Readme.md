@@ -23,11 +23,11 @@
 
 * The graph size range is from 10 nodes to 10000 nodes
 
-![1-edge.png](fig. 1)
+![fig. 1](1-edge.png)
 
-![4-edges.png](fig. 2)
+![fig. 2](4-edges.png)
 
-![16-edges.png](fig. 3)
+![fig. 3](16-edges.png)
 
 **Conclusion**
 
