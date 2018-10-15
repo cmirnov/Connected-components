@@ -12,9 +12,9 @@
 
 **Benchmarking**
 
-* In additional to these two algorithms, serial BFS algorithms was implimented to compare GPU and CPU algorithms efficencies.
+* In additional to these two algorithms, serial BFS algorithms was implemented to compare GPU and CPU algorithms efficencies.
 
-* All mesurmants were done on syntatic date. The generator may be found in gen.cpp
+* All measurements were done on syntactic date. The generator may be found in gen.cpp
 
 * There are 3 different graph topologies: 
 	- each node has at least 1 edge (fig. 1)
